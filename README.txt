@@ -1,0 +1,4 @@
+This is a simple Java Program which interprets the Bare Bones language. This folder contains the Java code, as well as two example files of Bare Bones code. The sytem will
+print the contents of all the variables in the system after each Bare Bones instruction has been processed. In order to use this interpreter, please download
+BBInterpreter.java and place a Bare Bones text file (in similar style to the examples in this folder) within the same folder. Then navigate to this folder in your command
+line, compile with 'javac BBInterpreter.java' and execute with 'java BBInterpreter <Bare-Bones-File>' where <Bare-Bones-File> is the name of the Bare Bones text file. 
